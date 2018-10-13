@@ -1,0 +1,13 @@
+git remote add origin git@github.com:shahanarshad/EVS-Projects.git
+git push -u origin master
+git init
+git add ChessGame.java
+git commit -m "Complete chess game"
+git remote add origin https://github.com/shahanarshad/EVS-Projects.git
+git push -u origin master
+Username for 'https://github.com': shahanarshad
+Password for 'https://shahanarshad@github.com': 
+git add ComparatorExample.java
+git add CompratorExample.java
+git commit -m "Comprator class added"
+git push -u origin master
